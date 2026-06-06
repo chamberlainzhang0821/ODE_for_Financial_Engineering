@@ -17,8 +17,14 @@ The repository provides a complete analytical derivation, rigorous boundary limi
 ### 1. 2D Sensitivity Profiles
 ![Volatility and Rate Sensitivities](volatility_sensitivity_plot.png)
 
+
 ### 2. 3D Pricing Surface Topologies
 ![3D Volatility Surface](volatility_surface_3d.png)
+<p align="center">
+  <img src="volatility_surface_3d.png" alt="3D Volatility Surface" width="70%">
+</p>
+
+
 
 ### 🚀 Key Features
 - **Analytical Solution:** Complete step-by-step mathematical proof utilizing the power-law ansatz for Cauchy-Euler systems.
